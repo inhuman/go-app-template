@@ -1,2 +1,2 @@
-# go_app_template
-Template for go app
+# go app template
+Template for go application, included config
